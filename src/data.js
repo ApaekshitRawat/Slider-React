@@ -2,11 +2,11 @@ const people = [
   {
     id: 1,
     image:
-      "https://res.cloudinary.com/diqqf3eq2/image/upload/v1595959131/person-2_ipcjws.jpg",
+      "https://media.istockphoto.com/id/1185367863/photo/smiling-business-woman-portrait.jpg?s=2048x2048&w=is&k=20&c=CefFlV38WjlYoF4rxpUWwHNGoOrsZKNZgSIbgq5Gnww=",
     name: "Inna Mina ",
     title: "office manager",
     quote:
-      "Fingerstache umami squid, kinfolk subway tile selvage tumblr man braid viral kombucha gentrify fanny pack raclette pok pok mustache.",
+      "Some pretty lady I got from free stock photos !! From the looks of it She can be a manager XD ",
   },
   {
     id: 2,
@@ -15,7 +15,7 @@ const people = [
     name: "Kamlesh doe",
     title: "High guy",
     quote:
-      "Gastropub sustainable tousled prism occupy. Viral XOXO roof party brunch actually, chambray listicle microdosing put a bird on it paleo subway tile squid umami.",
+      "Buddy is a good goofy Developer , he seems he can write any kind of code in html , i dont knwo what I am writing !!",
   },
   {
     id: 3,
@@ -23,8 +23,7 @@ const people = [
       "https://res.cloudinary.com/diqqf3eq2/image/upload/v1595959121/person-1_aufeoq.jpg",
     name: "Peetal Parker",
     title: "product designer",
-    quote:
-      "Drinking vinegar polaroid street art echo park, actually semiotics next level butcher master cleanse hammock flexitarian ethical paleo.",
+    quote: "Inspired from Desi Spiderman , here we have a product Designer !!",
   },
   {
     id: 4,
@@ -33,7 +32,7 @@ const people = [
     name: "abella andersen",
     title: "the boss",
     quote:
-      "Marfa af yr 3 wolf moon kogi, readymade distillery asymmetrical seitan kale chips fingerstache cloud bread mustache twee messenger bag. ",
+      "Randon BS go : Marfa af yr 3 wolf moon kogi, readymade distillery asymmetrical seitan kale chips fingerstache cloud bread mustache twee messenger bag. ",
   },
 ];
 
